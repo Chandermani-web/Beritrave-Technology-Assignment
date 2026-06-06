@@ -93,7 +93,3 @@ NODE_ENV=production node src/server.js
 - Add integration tests and seed scripts
 - Add Docker/Docker Compose for easy local setup
 - Add CI (GitHub Actions) for linting and tests
-
-## License
-
-MIT
